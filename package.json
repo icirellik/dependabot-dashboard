@@ -1,0 +1,19 @@
+{
+  "name": "dependabot-dashboard",
+  "version": "1.0.0",
+  "description": "A simple dashboard for Dependabot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icirellik/dependabot-dashboard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icirellik/dependabot-dashboard/issues"
+  },
+  "homepage": "https://github.com/icirellik/dependabot-dashboard#readme"
+}
